@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class gitTest : MonoBehaviour
 {
@@ -9,6 +7,9 @@ public class gitTest : MonoBehaviour
     {
         Debug.Log("Хз");
     }
+
+
+
 
     // Update is called once per frame
     void Update()
